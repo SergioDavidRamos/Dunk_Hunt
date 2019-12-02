@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454133086590",
+    "firebase_url": "https://duckhuntgame-e465c.firebaseio.com",
+    "project_id": "duckhuntgame-e465c",
+    "storage_bucket": "duckhuntgame-e465c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454133086590:android:501b082788bf621b96db2f",
+        "android_client_info": {
+          "package_name": "com.example.duckhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454133086590-hfv1umoh153lr615di89pnl7qplotitl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duckhunt",
+            "certificate_hash": "b4ac0aca585c79b269342ed54e1b0f4c06fe4349"
+          }
+        },
+        {
+          "client_id": "454133086590-0fj1a4hd0f45un3jsg3591k6p43kjhk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJfazpquWmKfIW0uVGoJrAxa4LBiZNIqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454133086590-0fj1a4hd0f45un3jsg3591k6p43kjhk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
